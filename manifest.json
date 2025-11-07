@@ -1,0 +1,10 @@
+{
+  "name": "Ninja Run",
+  "short_name": "NinjaRun",
+  "description": "An endless runner game where you control a ninja to jump over obstacles and achieve the highest score.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117"
+}
